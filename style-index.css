@@ -1,0 +1,87 @@
+.caixa{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 60px;
+	right: 0px;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 10px;
+}
+
+nav a{
+	text-transform: uppercase;
+	color: #38B6FF;
+	font-weight: bold;
+	font-size: 15px;
+	text-decoration: none;
+    
+}
+
+.abadocliente {
+    margin: 0 0 0 40px;
+}
+header{
+    padding: 55px 0;
+    background-image: url("fundo.png") ;
+	height: 140px;
+
+}
+
+.logoheader{
+    width: 15%;
+    float: left;
+    margin: 0px 0px 0px 0px; 
+}
+
+main{
+	background-image: url("imagencentral.jpg");
+
+}
+
+.capacelular{
+
+	position: relative;
+	width: 15%;
+	float: left;
+	border-radius: 40%;
+	margin: 0 40%;
+	
+}
+.primeiraparte{
+	color: #ffffff;
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+footer{
+    text-align: center;
+    background-image: url("fundo.png");
+    padding: 40px 0;
+}
+
+.logopreta{
+    width: 15%;
+    
+}
+
+.copyright {
+	color: #38B6FF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
